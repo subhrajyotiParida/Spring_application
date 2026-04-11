@@ -44,7 +44,7 @@ public class EmployeeController {
 	
 	@PostMapping("/employess")
 	public  Employee createEmployee(@RequestBody Employee emp){
-	     System.out.println("Service layer hit here to create emp "+emp.toString());
+	     System.out.println("Service layer hit here "+emp.toString());
 		return empRepository.save(emp);
 	}
 	
