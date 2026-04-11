@@ -95,5 +95,7 @@ public class EmployeeController {
 		x++;
 
 		System.out.println(x);
+		int y=10;
+		System.out.println(i++);
 	}
 }
