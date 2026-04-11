@@ -66,6 +66,7 @@ public class EmployeeController {
 		 emp.setFirstname(emplyeedDetails.getFirstname());
 		 emp.setLastname(emplyeedDetails.getLastname());
 		 emp.setEmail(emplyeedDetails.getEmail());
+		 System.out.println("emp Id "+emp.getId());
 		 this.empRepository.save(emp);
 		 return  ResponseEntity.ok(emp);
 	}
@@ -81,5 +82,10 @@ public class EmployeeController {
 		Map<String,Boolean> response = new HashMap<String, Boolean>();
 		response.put("deleted", Boolean.TRUE);
 		return ResponseEntity.ok(response);
+	}
+
+	public void checkSome(){
+
+		System.out.println("want t merge release branch");
 	}
 }
