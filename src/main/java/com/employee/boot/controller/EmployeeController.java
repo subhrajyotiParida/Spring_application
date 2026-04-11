@@ -86,7 +86,6 @@ public class EmployeeController {
 
 	public void checkSome(){
 
-		System.out.println("we will add more to this if required by user");
-		System.out.println("Also we need to verify");
+		System.out.println("we will add more to this");
 	}
 }
