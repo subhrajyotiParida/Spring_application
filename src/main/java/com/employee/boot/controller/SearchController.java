@@ -8,7 +8,7 @@ public class SearchController {
     }
 
     private String search(String text){
-        System.out.println("search the test in db");
+        System.out.println("search the test in db and return the value");
         return text;
     }
 }
