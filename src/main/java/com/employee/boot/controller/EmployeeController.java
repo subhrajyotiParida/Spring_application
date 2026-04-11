@@ -89,13 +89,6 @@ public class EmployeeController {
 		System.out.println("we will not add more to this");
 		System.out.println("we will continue to add");
 
-		int i=10;
-		System.out.println(i++);
-		int x=10;
-		x++;
 
-		System.out.println(x);
-		int y=10;
-		System.out.println(i++);
 	}
 }
