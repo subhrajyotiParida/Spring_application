@@ -44,7 +44,7 @@ public class EmployeeController {
 	
 	@PostMapping("/employess")
 	public  Employee createEmployee(@RequestBody Employee emp){
-	     System.out.println("Service layer hit here "+emp.toString());
+	     System.out.println("Service layer hit "+emp.toString());
 		return empRepository.save(emp);
 	}
 	
@@ -89,11 +89,6 @@ public class EmployeeController {
 		System.out.println("we will not add more to this");
 		System.out.println("we will continue to add");
 
-		int i=10;
-		System.out.println(i++);
-		int x=10;
-		x++;
 
-		System.out.println(x);
 	}
 }
