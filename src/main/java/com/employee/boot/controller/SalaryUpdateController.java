@@ -14,6 +14,11 @@ public class SalaryUpdateController
 
     }
 
+    public void deleteSalary(){
+        System.out.println("Deleted salary");
+        System.out.println("Verify salary deleted");
+    }
+
 
 
 }
