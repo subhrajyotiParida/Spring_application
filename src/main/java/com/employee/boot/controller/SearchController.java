@@ -7,6 +7,9 @@ public class SearchController {
     public SearchController(){
 
 
+        }
+    private String searchText(){
+        return "Hello";
     }
 
     private String search(String text){
