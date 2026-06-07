@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58cca806-8d3d-457e-8100-3319c8a27b13" name="Changes" comment="ok">
-      <changelist_data name="Sunita Divakaran" email="sundivk@gmail.com" date="1775927104000" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="58cca806-8d3d-457e-8100-3319c8a27b13" name="Changes" comment="Update the Controller" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +32,7 @@
     <option name="NEW_BASE" value="release/1.0.0" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="release/3.0.0" />
@@ -91,7 +89,7 @@
     "Maven.SpringAngular-emp [clean].executor": "Run",
     "Maven.SpringAngular-emp [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/update-user",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/workspace/shopping-cart-api",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -101,6 +99,7 @@
   <component name="Push.Settings">
     <force-push-targets>
       <force-push-target remote-path="origin" branch="feature/update-emplyee-details" />
+      <force-push-target remote-path="origin" branch="feature/update-user" />
     </force-push-targets>
   </component>
   <component name="RecentsManager">
@@ -232,7 +231,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775979787889</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Update the Controller">
+      <option name="closed" value="true" />
+      <created>1780851497381</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1780851497381</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +263,8 @@
     <MESSAGE value="Revise salary" />
     <MESSAGE value="Revert &quot;Added salary update functionality&quot;&#10;&#10;This reverts commit 52f7fcac" />
     <MESSAGE value="ok" />
-    <option name="LAST_COMMIT_MESSAGE" value="ok" />
+    <MESSAGE value="Update the Controller" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the Controller" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
