@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58cca806-8d3d-457e-8100-3319c8a27b13" name="Changes" comment="ok" />
+    <list default="true" id="58cca806-8d3d-457e-8100-3319c8a27b13" name="Changes" comment="ok">
+      <changelist_data name="Sunita Divakaran" email="sundivk@gmail.com" date="1775927104000" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,6 +91,7 @@
     "Maven.SpringAngular-emp [clean].executor": "Run",
     "Maven.SpringAngular-emp [install].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "feature/update-user",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/workspace/shopping-cart-api",
     "run.code.analysis.last.selected.profile": "pProject Default",
